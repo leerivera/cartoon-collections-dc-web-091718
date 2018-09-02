@@ -12,8 +12,7 @@ def summon_captain_planet(array)# code an argument here
 end
 
 
-  short_words = ["puff", "go", "two"]
-  assorted_words = ["two", "go", "industrious", "bop"]
+ 
  def long_planeteer_calls(array)
   array.any? do |word| 
     word.length > 4 
